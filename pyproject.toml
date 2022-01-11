@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "django-address"
+name = "django_address"
 version = "0.2.5"
 description = "A django application for describing addresses."
 authors = ["Luke Hodkinson <furious.luke@gmail.com>"]

@@ -6,4 +6,4 @@ class AddressConfig(AppConfig):
     Define config for the member app so that we can hook in signals.
     """
 
-    name = "address"
+    name = "django_address"
